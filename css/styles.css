@@ -1,0 +1,107 @@
+/*For the ones who watch this css code my css in this web is bad as fuck because I'm soo lazy to refactor the code . */
+
+body {
+  line-height: 2;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+h1 {
+  margin-bottom: 50px;
+  font-size: 2.5rem;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
+}
+
+img {
+  width: 50%;
+}
+
+.contact-button {
+  margin: 30px 10px;
+}
+
+.row {
+  margin-top: 100px;
+}
+
+.container-fluid {
+  text-align: center;
+  padding: 0 0 100px;
+}
+
+/* navbar */
+.navbar {
+  background-color: black;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family: 'Abril Fatface', cursive;
+
+}
+
+.nav-item {
+  font-size: 1rem;
+  padding-right: 20px;
+  font-family: 'Abril Fatface', cursive;
+
+}
+
+#home {
+  background-color: #F1F1F1;
+}
+
+.features {
+  text-align: center;
+  background-color: black;
+  color: #ffff;
+}
+
+.features_text {
+  padding-top: 50px;
+}
+
+.card {
+  background-color: black;
+}
+
+#photo {
+  background-color: #F1F1F1;
+}
+
+.photo-card {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.photo_container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.photo_row {
+  margin-top: 0;
+}
+
+.sawl_sg_sarkyaung_cont {
+  padding-top: 50px;
+  background-color: black;
+  color: #ffff;
+  text-align: center;
+}
+.swal_sg-text{
+  font-size: 2.5rem;
+}
+.footer-cont{
+  background-color: #F1F1F1;
+  text-align: center;
+  height: 120px;
+  font-family: 'Abril Fatface', cursive;
+}
+.social-icon{
+ padding: 20px 10px 20px;
+}
